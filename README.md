@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CoinX - Crypto News App 📱
 
 This is a real-time cryptocurrency news aggregator built with React Native and Expo. It was created as a project to demonstrate modern mobile development skills, API integration, and clean UI design.
@@ -93,3 +94,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# CoinX---Cryptocurrency-News-Application
+>>>>>>> 26143b97abad12897711d249ae1d7cd01242cedc
